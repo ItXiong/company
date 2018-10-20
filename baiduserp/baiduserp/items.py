@@ -8,6 +8,7 @@
 import scrapy
 
 
+
 class BaiduserpItem(scrapy.Item):
     # define the fields for your item here like:
     bodys = scrapy.Field()
